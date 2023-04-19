@@ -16,6 +16,7 @@
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
   - [🚀 Live Demo ](#-live-demo-)
+  - [📺 Presentation ](#-presentation-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup ](#setup-)
@@ -79,6 +80,9 @@
 - [You can check the live demo here](https://forex-exchange.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📺 Presentation <a name="presentation"></a>
+- [ScreenRec Presentation](https://www.loom.com/share/942a2ca42b6a44fb99c707e81dff7f07?t=90)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
