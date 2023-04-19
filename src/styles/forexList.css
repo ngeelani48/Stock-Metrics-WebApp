@@ -1,0 +1,32 @@
+.forex {
+  height: 40vh;
+  width: 100%;
+  background-image: url('../images/image.png');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.forex h2 {
+  padding: 10% 0 0 80%;
+  white-space: nowrap;
+}
+.forexs-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+    align-content: center;
+  }
+  .forex-card {
+    text-align: center;
+    background-color: #ef3f80;
+    padding: 3rem 0;
+    cursor: pointer;
+  }
+  .forex-card:hover {
+    transform: scale(110%);
+  }
+  
+  .forex-card:nth-child(4n-2),
+  .forex-card:nth-child(4n-1) {
+    background-color: #ef3f71;
+  }
+  
