@@ -6,7 +6,7 @@ import { Provider } from 'react-redux';
 import store from '../redux/store';
 import ForexList from '../components/forexList';
 
-describe('Test The Home Route', () => {
+describe('Test the Home Route', () => {
   it('test if the Forexlist renders properly', () => {
     const tree = render(
       <React.StrictMode>
