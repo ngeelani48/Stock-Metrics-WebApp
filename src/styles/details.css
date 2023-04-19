@@ -1,28 +1,28 @@
 .details-card {
-    margin: 4rem 0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-  
-  table {
-    font-family: 'Oxygen', sans-serif;
-  }
-  
-  table,
-  td,
-  tr {
-    border: 1px solid #15e6cd;
-  }
-  
-  table tr {
-    background-color: #ef3f80;
-  }
-  
-  table tr:nth-of-type(even) {
-    background-color:  #ef3f71;
-  }
-  
-  table td {
-    padding: 0.5rem;
-  }
+  margin: 4rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+table {
+  font-family: 'Oxygen', sans-serif;
+}
+
+table,
+td,
+tr {
+  border: 1px solid #15e6cd;
+}
+
+table tr {
+  background-color: #ef3f80;
+}
+
+table tr:nth-of-type(even) {
+  background-color: #ef3f71;
+}
+
+table td {
+  padding: 0.5rem;
+}

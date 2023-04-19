@@ -1,6 +1,6 @@
 header {
   width: 100%;
-  background:  #ef3f71;
+  background: #ef3f71;
   position: fixed;
   top: 0;
   z-index: 999;
@@ -37,4 +37,3 @@ header {
 .icon {
   cursor: pointer;
 }
-

@@ -21,7 +21,7 @@ const DetailsExchange = () => {
     );
   }
 
-  if (isLoading) return <h1>Loading...</h1>;
+  if (isLoading) return <h1 style={{ textAlign: 'center', marginTop: '5rem' }}>Loading...</h1>;
   return (
 
     <div className="details-card">
