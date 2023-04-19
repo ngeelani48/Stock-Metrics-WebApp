@@ -37,7 +37,7 @@
 
 # Forex Exchange📖 <a name="about-project"></a>
 
-**Forex Exchange** This app consumes the [Awesome API](https://docs.awesomeapi.com.br/api-de-moedas#codigos-das-moedas). It usues the real time data for some of the exchange rates from API and provides details about the required exchange.
+**Forex Exchange** This app consumes the [Awesome API](https://docs.awesomeapi.com.br/api-de-moedas#codigos-das-moedas). It usues the real time data for some of the exchange rates from API and provides details about the required exchange. And this App's is based on the design by [Nelson Sakwa on Behance](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)).
 
 - The Home section displays a list of 18 different exchange rates. User can click if intersted in more details about a specific exchange.
   
