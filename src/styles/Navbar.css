@@ -1,0 +1,39 @@
+header {
+  width: 100%;
+  background: #ef3f71;
+  position: fixed;
+  top: 0;
+  z-index: 999;
+}
+
+.nav,
+.logo,
+.right-icons {
+  display: flex;
+  align-items: center;
+}
+
+.nav {
+  width: 97%;
+  margin: 0 auto;
+  height: 50px;
+  justify-content: space-between;
+  color: #fff;
+}
+
+.nav h1 {
+  font-size: 17px;
+}
+
+.right-icons {
+  gap: 2rem;
+}
+
+.left-arrow {
+  color: #fff;
+  padding-top: 8px;
+}
+
+.icon {
+  cursor: pointer;
+}
